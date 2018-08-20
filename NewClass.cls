@@ -5,7 +5,8 @@ public class NewClass {
   public NewClass(Integer value){
     newField = value;
   }
-
+  
+  //comment empty method
   private void unusedMethod(){}
 
   /*
