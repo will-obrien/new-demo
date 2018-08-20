@@ -7,7 +7,9 @@ public class NewClass {
   }
 
   private void unusedMethod(){}
-
+  
+  private void unusedMethodTwo(){}
+  
   /*
   * This is fine.
   */
