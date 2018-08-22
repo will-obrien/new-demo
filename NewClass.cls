@@ -6,8 +6,6 @@ public class NewClass {
     newField = value;
   }
 
-  private void unusedMethod(){}
-
   /*
   * This is fine.
   */
