@@ -15,6 +15,7 @@ public class NewClass {
 
   public void terribleCode(Integer param){
     param = 1;
+    param = param;
   }
 
 
