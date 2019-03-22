@@ -18,9 +18,5 @@ public class NewClass {
   }
 
 
-//new comment to trigger
-  //and another one
-
-
 
 }
