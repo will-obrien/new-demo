@@ -4,6 +4,7 @@ public class NewClass {
 
   public NewClass(Integer value){
     newField = value;
+    value = 5;
   }
 
   /*
