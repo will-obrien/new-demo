@@ -20,7 +20,7 @@ public class NewClass {
 
   private void unused(){}
 
-
+private void unused2(){}
 
 
 
