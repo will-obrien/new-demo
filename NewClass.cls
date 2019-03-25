@@ -18,6 +18,7 @@ public class NewClass {
     param = 1;
   }
 
+  private void unused(){}
 
 
 
