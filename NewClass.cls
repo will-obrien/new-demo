@@ -25,6 +25,13 @@ public class NewClass {
   public boolean isBadExample(){
     return true;
   }
+  
+   }
+  /*
+  *
+  * large comment 2 should make the below issues reappear
+  *
+  */
 
   //New comment
   public void terribleCode(Integer param){ 
