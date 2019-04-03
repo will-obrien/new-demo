@@ -1,3 +1,8 @@
+/*
+  *
+  * large header comment
+  *
+  */
 public class NewClass {
 
   Integer newField;
