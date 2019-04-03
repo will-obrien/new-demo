@@ -26,6 +26,13 @@ public class NewClass {
     return true;
   }
   
+  /*
+  * This is fine.
+  */
+  public boolean isBadExampleTheSecond(){
+    return true;
+  }
+  
    
   /*
   *
