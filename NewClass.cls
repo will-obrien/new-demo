@@ -7,11 +7,11 @@ public class NewClass {
     value = 5;
   }
   
-  private void unused3(){}
-  private void unused4(){}
-  private void unused5(){}
-  private void unused6(){}
-  private void unused7(){}
+  private void unused3{}
+  private void unused4{}
+  private void unused5{}
+  private void unused6{}
+  private void unused7{}
   
 
   /*
@@ -21,7 +21,8 @@ public class NewClass {
     return true;
   }
 
-  public void terribleCode(Integer param){
+  //New comment
+  public void terribleCode(Integer param){ 
     param = 1;
   }
 
