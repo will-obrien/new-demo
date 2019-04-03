@@ -40,6 +40,7 @@ public class NewClass {
 
 private void unused(){}
 
+//Comment for empty method
 private void unused2(){}
 
 //Another Trigger
