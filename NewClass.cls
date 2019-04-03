@@ -26,7 +26,7 @@ public class NewClass {
     return true;
   }
   
-   }
+   
   /*
   *
   * large comment 2 should make the below issues reappear
