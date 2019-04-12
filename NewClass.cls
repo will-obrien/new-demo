@@ -11,11 +11,7 @@ public class NewClass {
     newField = value;
     value = 5;
   }
-  /*
-  *
-  * large comment
-  *
-  */
+
   
   private void unused3(){}
   private void unused4(){}
@@ -38,12 +34,6 @@ public class NewClass {
     return true;
   }
   
-   
-  /*
-  *
-  * large comment 2 should make the below issues reappear
-  *
-  */
 
   //New comment
   public void terribleCode(Integer param){ 
@@ -53,12 +43,9 @@ public class NewClass {
 private void unused(){}
 
 //Comment for empty method
-private void unused2(){}
+private void unused2(Integer param){
+  param = 6;
+}
 
-//Another Trigger
-/*
-  *
-  * large comment at the bottom
-  *
-  */
+
 }
