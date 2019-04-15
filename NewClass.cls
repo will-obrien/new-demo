@@ -7,7 +7,7 @@ public class NewClass {
     value = 5;
   }
 
-  private void unused1(){} 
+  private void unused1(){} {
   private void unused2(){}
   private void unused3(){}
   private void unused4(){}
