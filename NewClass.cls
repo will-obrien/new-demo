@@ -16,7 +16,7 @@ public class NewClass {
   private void unused7(){}
  private void unused8(){}
   
- private void unused9(){}  
+ private void unused9(){} //Comment on line
 
   /*
   * This is fine.
