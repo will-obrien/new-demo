@@ -2,6 +2,12 @@
   *
   * large header comment
   *
+*
+*
+*
+*
+*
+* Larger header comment
   */
 public class NewClass {
 
