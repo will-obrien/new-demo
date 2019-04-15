@@ -25,15 +25,7 @@ public class NewClass {
   private void unused6(){}
   private void unused7(){}
  private void unused8(){}
- private void unused9(){}
- private void unused0(){}
- private void unused01(){}
- private void unused02(){}
- private void unused03(){}
- private void unused04(){}
- private void unused05(){}
- 
-  
+ private void unused9(){}  
 
   /*
   * This is fine.
