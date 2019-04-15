@@ -15,6 +15,7 @@ public class NewClass {
   private void unused6(){}
   private void unused7(){}
  private void unused8(){}
+  
  private void unused9(){}  
 
   /*
