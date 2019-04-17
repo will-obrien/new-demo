@@ -1,2 +1,5 @@
 @isTest
-public class NewClassTest{}
+public class NewClassTest{
+
+static testMethod void methodForNewClass() {}
+}
