@@ -1,2 +1,5 @@
 @isTest
-public class FakeClass_Test.cls{}
+private class FakeClass_Test.cls{
+ static testMethod void method() {}
+
+}
