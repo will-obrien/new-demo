@@ -36,6 +36,7 @@ public class NewClass {
   //New comment
   public void terribleCode(Integer param){ 
     param = 1;
+    param = param;
   }
 
 private void unused(){}
