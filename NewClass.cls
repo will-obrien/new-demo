@@ -58,12 +58,9 @@ public class NewClass {
 private void unused(){}
 
 //Comment for empty method
-private void unused2(){}
+private void unused2(){
+  //comment
+}
 
-//Another Trigger
-/*
-  *
-  * large comment at the bottom
-  *
-  */
+
 }
