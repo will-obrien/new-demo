@@ -1,1 +1,6 @@
-public class ClassTwo{}
+public class ClassTwo{
+  private void newMethods(){
+    //comment
+  }
+
+}
